@@ -38,7 +38,7 @@ Mexico City, Mexico / _January 2004- December 2009_
 
 ## 👩🏼‍💻  PROJECTS
 
-- [Fullstack app with authentication](https://github1s.com/dannuzak/final-project-ok)  
+- [Fullstack app with authentication](https://github.com/dannuzak/final-project-ok)  
 **_Technologies used:_** Javascript, React, MongoDB, APIs, Node.js, Express, Styled Components
 - [Twitter-like-app](https://github.com/dannuzak/project-happy-thoughts)  
 **_Technologies used:_** JavaScript, React, MongoDB, APIs, Node, Styled Components
