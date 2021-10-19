@@ -22,7 +22,8 @@ VSCode | Github | Netlify | Figma | Postman | Heroku | MongoDB Compass | MongoDB
 
 ## 👩🏼‍🎓  EDUCATION
 - **Coding Bootcamp** @ [Technigo](https://www.technigo.io/program)  
-Online, Sweden / _January 2021 - June 2021_<br>   
+Online, Sweden / _January 2021 - June 2021_<br>  
+A 24-week fast-paced bootcamp focusing on JavaScript (ES6), React, HTML5, CSS and server-side programming with Node.js. I developed around 20 projects working with Agile methodology through weekly sprints planning, check-ins, demos and reflections.
 
 - **Project Management** @ Nätverkstan  
 Gothenburg, Sweden / _August 2014 - May 2016_  
