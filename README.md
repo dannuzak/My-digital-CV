@@ -27,7 +27,6 @@ A 24-week fast-paced remote Boot Camp, focusing on JavaScript (ES6), React, HTML
 
 - **Project Management** @ Nätverkstan  
 Gothenburg, Sweden / _August 2014 - May 2016_  
-A 2-year educational program for project managers within the cultural sector.
 <br><br>
 
 - **Master's Degree in Media and Communication** @ Universidad Iberoamericana  
