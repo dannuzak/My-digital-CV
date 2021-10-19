@@ -63,10 +63,8 @@ _April 2019 - April 2020_
   - Managed databases for the administration of courses, groups, schedules for teachers and students using SpeedAdmin System
   - Contributed to SpeedAdmin’s improvement through continued feedback on user experience to the developer’s team 
   - Initiated a series of workshops, from design and delivery to evaluation and report, targeted to teachers and directors for the optimal use of SpeedAdmin
-  - Participation in various networks, one of them being relative to data protection (GDPR)
-  - Technical support to staff, monitoring, and maintenance of computer hardware system
-  - Customer service and technical support to parents in the use of SpeedAdmin
   - Offered technical support to staff and parents and monitored and maintained computer hardware-system
+  - Participated in various networks, one of them being relative to data protection (GDPR)
  <br><br>
 
 **Festival Manager** @ Gothenburg Independent Film Festival  
@@ -85,7 +83,6 @@ _August 2011 - August 2014_
  - Improved our users’ experience by recommending and coordinating the implementation and integration of a new website and booking system 
  - Continuously collaborated with developers and UX designers on performance, maintenance, and improvement of website and booking system
  - Planned and managed preparations for the festival's 8th, 9th and 10th editions
- - Responsible for improving internal procedures within logistics and personnel management
  - Improved internal procedures within logistics and staff management
  - Recruited, trained, and coordinated interns and volunteers in logistics, PR, and customer service
 <br><br>
