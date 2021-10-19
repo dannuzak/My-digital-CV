@@ -3,7 +3,7 @@
 [Portfolio](https://my-portfolio-dannuzak.netlify.app/) / [Github](https://github.com/dannuzak) / [LinkedIn](https://www.linkedin.com/in/danielazacarias/) / [Email](mailto:daniela.zacarias@outlook.com)
 <br><br>
 
-- I am a creative web developer and I enjoy making beautiful and functional websites.  
+- I am a creative frontend developer and I enjoy making beautiful and functional websites.  
 - As a former project manager and administrator, I aim to contribute with a good balance between structure, productivity, solution-oriented mindset, flexibility and creativity.
 - Open to relocate, currently based in Gothenburg, Sweden.  
 <br><br>
