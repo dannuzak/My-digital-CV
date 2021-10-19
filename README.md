@@ -43,7 +43,9 @@ Mexico City, Mexico / _January 2004- December 2009_
 - [Twitter-like-app](https://github.com/dannuzak/project-happy-thoughts)  
 **_Technologies used:_** JavaScript, React, MongoDB, APIs, Node, Styled Components
 - [Movies site](https://github.com/dannuzak/project-movies)  
-**_Technologies used:_** HTML, CSS3, JavaScript, React, pairprogramming
+**_Technologies used:_** HTML, CSS3, JavaScript, React
+- [Weather app](https://github.com/dannuzak/project-weather-app)
+**_Technologies used:_** HTML, CSS3, JavaScript, APIs, DOM
 
 👉🏼  [More projects in my portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
 <br><br>
