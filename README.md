@@ -6,10 +6,10 @@
 - I am a creative web developer and I enjoy making beautiful and functional websites.  
 - As a former project manager and administrator, I aim to contribute with a good balance between structure, productivity, solution-oriented mindset, flexibility and creativity.
 - Open to relocate, currently based in Gothenburg, Sweden.  
-<br><br><br>
+<br><br>
 
 ## 💥 CODE SKILLS
-HTML5 | CSS3 | `JavaScript ES6` | `React JS` | React Native | Redux | REST APIs | Styled Components | Git | Node.js | MongoBD
+HTML5 | CSS3 | **JavaScript ES6** | **React JS** | React Native | Redux | REST APIs | Styled Components | Git | Node.js | MongoBD
 <br><br>
 
 ## ⭐️ COMPETENCES
@@ -27,7 +27,6 @@ A 24-week fast-paced remote Boot Camp, focusing on JavaScript (ES6), React, HTML
 
 - **Project Management** @ Nätverkstan  
 Gothenburg, Sweden / _August 2014 - May 2016_  
-<br><br>
 
 - **Master's Degree in Media and Communication** @ Universidad Iberoamericana  
 Mexico City, Mexico / _January 2004- December 2009_
@@ -39,11 +38,11 @@ Mexico City, Mexico / _January 2004- December 2009_
 
 ## 👩🏼‍💻  PROJECTS
 
-- Fullstack app with authentication  
+- [Fullstack app with authentication](https://github1s.com/dannuzak/final-project-ok)  
 **_Technologies used:_** Javascript, React, MongoDB, APIs, Node.js, Express, Styled Components
-- Twitter-like-app  
+- [Twitter-like-app](https://github.com/dannuzak/project-happy-thoughts)  
 **_Technologies used:_** JavaScript, React, MongoDB, APIs, Node, Styled Components
-- Movies site  
+- [Movies site] (https://github.com/dannuzak/project-movies)  
 **_Technologies used:_** HTML, CSS3, JavaScript, React, pairprogramming
 
 👉🏼  [More projects in my portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
