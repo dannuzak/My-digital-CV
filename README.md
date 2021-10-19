@@ -41,9 +41,9 @@ Mexico City, Mexico / _January 2004- December 2009_
 
 - Fullstack app with authentication  
 **_Technologies used:_** Javascript, React, MongoDB, APIs, Node.js, Express, Styled Components
-- Twitter-like-app
+- Twitter-like-app  
 **_Technologies used:_** JavaScript, React, MongoDB, APIs, Node, Styled Components
-- Movies site
+- Movies site  
 **_Technologies used:_** HTML, CSS3, JavaScript, React, pairprogramming
 
 👉🏼  [More projects in my portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
