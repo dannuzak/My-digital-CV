@@ -22,8 +22,7 @@ VSCode | Github | Netlify | Figma | Postman | Heroku | MongoDB Compass | MongoDB
 
 ## 👩🏼‍🎓  EDUCATION
 - **Coding Bootcamp** @ [Technigo](https://www.technigo.io/program)  
-Online, Sweden / _January 2021 - June 2021_<br>  
-A 24-week fast-paced remote Boot Camp, focusing on JavaScript (ES6), React, HTML5, CSS and server-side programming with Node.js, with weekly projects covering everything from the basics of programming to structuring web projects using the latest technology. We worked with Agile methodology through weekly sprints planning, check-ins, demos and reflections. Mob-programming and pair-programming made up a significant part of the course.  
+Online, Sweden / _January 2021 - June 2021_<br>   
 
 - **Project Management** @ Nätverkstan  
 Gothenburg, Sweden / _August 2014 - May 2016_  
@@ -42,7 +41,7 @@ Mexico City, Mexico / _January 2004- December 2009_
 **_Technologies used:_** Javascript, React, MongoDB, APIs, Node.js, Express, Styled Components
 - [Twitter-like-app](https://github.com/dannuzak/project-happy-thoughts)  
 **_Technologies used:_** JavaScript, React, MongoDB, APIs, Node, Styled Components
-- [Movies site] (https://github.com/dannuzak/project-movies)  
+- [Movies site](https://github.com/dannuzak/project-movies)  
 **_Technologies used:_** HTML, CSS3, JavaScript, React, pairprogramming
 
 👉🏼  [More projects in my portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
