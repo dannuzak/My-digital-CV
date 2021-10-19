@@ -5,7 +5,7 @@
 
 - I am a creative frontend developer with a background in project management and administration
 - I have a strong interest in UI/UX design and I aim to contribute with a good balance between structure, productivity, solution-oriented mindset, flexibility and creativity
-- Open to relocate, currently based in Gothenburg, Sweden
+- Open to relocation, currently based in Gothenburg, Sweden
 <br><br>
 
 ## 💥 CODE SKILLS
