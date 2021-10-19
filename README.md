@@ -50,7 +50,7 @@ Mexico City, Mexico / _January 2004- December 2009_
 
 ## 👩🏼‍💻  WORK EXPERIENCE
 
-**Administrator and Assistant to Director** @ Intern Service @ Gothenburg City  
+**Administrator and Assistant to Director** @ Gothenburg City  
 _August 2020 - December 2020_
 <br>
   - Managed databases for the administration of salaries, contracts, absences and holidays of the staff using Personec System  
