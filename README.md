@@ -1,6 +1,6 @@
 # Daniela Zacarías
 
-[Portfolio](https://my-portfolio-dannuzak.netlify.app/) / [Github](https://github.com/dannuzak) / [LinkedIn](https://www.linkedin.com/in/danielazacarias/) / [Email](mailto:daniela.zacarias@outlook.com)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Download this CV](https://drive.google.com/file/d/1RiRWz400PBPgoVMagYRbOxbytbwCe07D/view?usp=sharing) ⬇️
+[Portfolio](https://my-portfolio-dannuzak.netlify.app/) / [Github](https://github.com/dannuzak) / [LinkedIn](https://www.linkedin.com/in/danielazacarias/) / [Email](mailto:daniela.zacarias@outlook.com) / [Download this CV](https://drive.google.com/file/d/1K3pJVnjZg0mz1AJqfANTqLQgVcMJVKoG/view?usp=sharing) ⬇️
 <br><br>
 
 - I am a creative frontend developer with a background in project management and administration
