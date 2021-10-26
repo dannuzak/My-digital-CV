@@ -1,6 +1,6 @@
 # Daniela Zacarías
 
-[Portfolio](https://my-portfolio-dannuzak.netlify.app/) / [Github](https://github.com/dannuzak) / [LinkedIn](https://www.linkedin.com/in/danielazacarias/) / [Email](mailto:daniela.zacarias@outlook.com) / [Download this CV](https://drive.google.com/file/d/18F1r3M2wmDb0QCrpHXTvwI8fnwNEyZia/view?usp=sharing) ⬇️
+[Portfolio](https://www.dannuzak.com/) / [Github](https://github.com/dannuzak) / [LinkedIn](https://www.linkedin.com/in/danielazacarias/) / [Email](mailto:daniela.zacarias@outlook.com) / [Download this CV](https://drive.google.com/file/d/18F1r3M2wmDb0QCrpHXTvwI8fnwNEyZia/view?usp=sharing) ⬇️
 <br><br>
 
 - I am a creative frontend developer with a background in project management and administration
@@ -48,7 +48,7 @@ Mexico City, Mexico / _January 2004- December 2009_
 - [Weather app](https://github.com/dannuzak/project-weather-app)  
 **_Technologies used:_** HTML5, CSS3, JSX, JavaScript, APIs, DOM
 
-👉🏼  [More projects in my portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
+👉🏼  [More projects in my portfolio](https:/www.dannuzak.com/) 👀
 <br><br>
 
 ## 👩🏼‍💻  WORK EXPERIENCE
